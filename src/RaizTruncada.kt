@@ -2,7 +2,7 @@ import kotlin.math.abs
 import kotlin.math.floor
 
 class LeetCode69 {
-     /*Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
+     /*Leet Code 69: Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
      The returned integer should be non-negative as well.*/
 
     fun mySqrt(x: Int): Int {
